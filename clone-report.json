@@ -1,0 +1,13 @@
+{
+  "site": "https://kartbros.io/",
+  "mode": "entire",
+  "startedAt": "2026-11-16T16:01:35.181Z",
+  "completedAt": "2026-11-16T16:01:38.090Z",
+  "pagesDiscovered": 2,
+  "pagesDownloaded": 1,
+  "pagesSkipped": 1,
+  "assetsDownloaded": 29,
+  "assetsMissing": 0,
+  "bytes": 1026199,
+  "errors": 1
+}
